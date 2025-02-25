@@ -1,1 +1,1 @@
-# cs50p
+Harvard CS50p repo
